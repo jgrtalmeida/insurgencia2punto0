@@ -42,4 +42,4 @@ Gracias.
 João Gabriel Almeida, 2018.
 
 
-[Página Anterior](memepaz)  |  [Próxima Página]()
+[Página Anterior](memepaz)
