@@ -5,11 +5,11 @@ permalink: elementosdeunmeme
 ---
 Intentar establecer una taxonomía de los memes es, como en toda taxonomía, una acción parcial de abordar un elemento de todo el fenómeno. Los intentos más comunes son separar por nível de difusión o por orígenes. Más importante que una clasificación, creo que podemos abordar a través de ejemplos los elementos fundamentales que ofrecen los memes como herramienta de paz.
 
-## **LA IDENTIDAD**
+### **LA IDENTIDAD**
 
 La gran clave de un Meme es su capacidad de generar identidad y comunidad. Al estar fundamentado en el principio Me Gusta, su gran suceso es cuando logra componerse como síntesis de un elemento cultural que las personas, en caso de las redes sociales, literalmente lo comparten. Un ejemplo es la página de facebook [Memes Marxistas-leninistas](https://www.facebook.com/memesmarxistasleninistas/?ref=br_rs). Los distintos chistes que aparecen en esta página sirven para crear la unidad de una comunidad que se identifica con esos principios. Un reflejo de la guerra es que las comunidades se generan en base a un enemigo en común. Un desafío de esa pedagogía es como pensar se puede utilizar del Meme para identidades a partir de otras lógicas.
 
-## **EL HUMOR**
+### **EL HUMOR**
 
 Un Meme siempre busca generar la risa. En la clave que estamos buscando la pregunta es ¿De qué reírse?  En el documental brasilero [O Riso dos Outros](https://www.youtube.com/watch?v=zqlRD3E72sI), un grupo de comediantes famosos hacen reflexiones importantes que deben orientar el trabajo. Uno dice qué hacer comedia con el pobre que está pidiendo dinero es muy fácil y es un humor conservador, mientras que pasar la mano en la nalga de la autoridad es un acto subversivo.  Podemos pensar entonces en la clave del descrito anteriormente que el humor puede servir para identificar un ente externo a nosotros y ridiculizarlo o unir nuestra propia comunidad en lo que nos hace ridículos.  Un buen ejemplo de esa segunda vertiente, la más indicada en mi opinión, es la página de Facebook brasilera [Arte da Depressão](https://www.facebook.com/artedadepre/).  El concepto por detrás es utilizar cuadros famosos para hacer chiste a la vez con el arte y con su comunidad. Mire este ejemplo:
 
@@ -26,7 +26,7 @@ Otro modelo que también fue muy famoso y que se puede utilizar es del niño esc
 
 ![Niño duda](/insurgencia2punto0/assets/images/nino.jpg)
 
-## **MOVIMENTAR AFECTOS**
+### **MOVIMENTAR AFECTOS**
 
 Un riesgo que podemos caer al pensar esa metodología es pensar que debemos “imponer plantillas”. La cultura es dinámica y a cada segundo se construye referentes visuales nuevos. Acá la cuestión de la afectividad juega un papel importante. Grandes eventos como el mundial pueden generar pasiones que pueden conectarse con lo que queremos dialogar. Si logramos exponer manifestaciones artísticas de víctimas o de otros actores del conflicto se puede generar una conexión con los miembros de nuestras clases, y ellos pueden querer apropiarse de esos elementos para producir su meme. Mire, por ejemplo, cómo fueron utilizadas las fotos de dos de los ídolos de la selección Colombia para jugar con cuestiones de la vida cotidiana:
 
