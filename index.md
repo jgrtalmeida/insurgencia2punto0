@@ -13,7 +13,7 @@ El concepto detrás consiste en entender que una de las dificultades del uso de 
 <hr>
 
 <div class="toc">
-  <h2>Tutoriales</h2>
+  <h2>Índice</h2>
   <ul class="texts">
   {% for item in site.texts %}
 
