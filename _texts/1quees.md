@@ -4,7 +4,7 @@ title: ¿Qué es un Meme y cuales son sus características?
 author: João Gabriel Almeida
 align: justify
 rights: Public Domain
-permalink: porque
+permalink: quees
 ---
 ![Meme Que](/insurgencia2punto0/assets/images/quees.png)
 El término surge en el trabajo del biólogo Richard Dawkins llamado el Gene Egoísta, como un intento de plantear un “gene cultural”.  Llega a ser comparado a un virus. Sería la forma de transmitir la cultura de una comunidad humana. El meme tendría tres elementos centrales:
