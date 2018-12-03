@@ -3,16 +3,17 @@ layout: default
 title: "Insurgencia 2.0"
 iframe_url: https://www.youtube.com/embed/HKY3D5n0dCY
 ---
-{% if include.width != '' %}
-  <div style="width: {{include.width}}; margin:0 auto;">
-{% else %}
-  <div>
+{% if page.iframe_url %}
+    <div class="less-fancy-video-header">
+      <iframe
+        class="yt-embed"
+        src="{{ page.iframe_url }}?&rel=0&showinfo=0&autohide=1&hd=1&wmode=transparent"
+        frameborder="0"
+        allowfullscreen="true"
+        ></iframe>
+    </div>
 {% endif %}
-  <div class="ytcontainer">
-    <iframe class="yt" allowfullscreen src="https://www.youtube.com/embed/HKY3D5n0dCY"></iframe>
-  </div>
-</div>
-{% include youtube.html id="HKY3D5n0dCY" width="80%" %}
+
 <div class="introduction">
   
   <h1>Hola.</h1>
