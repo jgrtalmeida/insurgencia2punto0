@@ -2,7 +2,15 @@
 layout: default
 title: "Insurgencia 2.0"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+{% if include.width != '' %}
+  <div style="width: {{include.width}}; margin:0 auto;">
+{% else %}
+  <div>
+{% endif %}
+  <div class="ytcontainer">
+    <iframe class="yt" allowfullscreen src="https://www.youtube.com/embed/HKY3D5n0dCY"></iframe>
+  </div>
+</div>
 
 <div class="introduction">
   
