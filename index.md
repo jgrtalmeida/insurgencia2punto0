@@ -11,7 +11,7 @@ title: "Insurgencia 2.0"
     <iframe class="yt" allowfullscreen src="https://www.youtube.com/embed/HKY3D5n0dCY"></iframe>
   </div>
 </div>
-
+{% include youtube.html id="HKY3D5n0dCY" width="80%" %}
 <div class="introduction">
   
   <h1>Hola.</h1>
