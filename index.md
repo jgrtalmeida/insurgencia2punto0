@@ -2,7 +2,8 @@
 layout: default
 title: "Insurgencia 2.0"
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HKY3D5n0dCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
+
 <div class="introduction">
   
   <h1>Hola.</h1>
