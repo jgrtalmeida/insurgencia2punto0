@@ -2,7 +2,7 @@
 layout: default
 title: "Insurgencia 2.0"
 ---
-{% include youtubePlayer.html id=https://youtu.be/HKY3D5n0dCY%}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 <div class="introduction">
   
