@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Insurgencia 2.0"
+iframe_url: https://www.youtube.com/embed/HKY3D5n0dCY
 ---
 {% if include.width != '' %}
   <div style="width: {{include.width}}; margin:0 auto;">
