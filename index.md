@@ -4,6 +4,7 @@ title: "Insurgencia 2.0"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKY3D5n0dCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="introduction">
+  
   <h1>Hola.</h1>
 <p align= "justify">Insurgencia 2.0 es una herramienta de producción de Memes para prácticas de narrativas digitales desde abajo. Su propósito es ser una herramienta para profesores colombianos en Cátedras de Paz. La parte técnica es basada en el tema <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> <a href="http://elotroalex.github.io/ed/" target="_blank">Ed</a>. .
 La historia del proyecto se puede verificar acá.
