@@ -3,7 +3,9 @@ layout: default
 title: "Insurgencia 2.0"
 iframe_url: https://www.youtube.com/embed/HKY3D5n0dCY
 ---
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKY3D5n0dCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 <div class="introduction">
   
